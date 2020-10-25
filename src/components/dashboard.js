@@ -6,7 +6,7 @@ import './dashboard.css'
 import Typography from '@material-ui/core/Typography';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-import AreaChart from './Area chart';
+import AreaChart from './Areachart';
 
 class Dashboard extends Component {
 	
